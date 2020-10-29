@@ -17,4 +17,4 @@ Common Errors:
 - If the program crashes after double-clicking, please restart your computer and try again. This may be because Python 3.9 has not been successfully installed on your system.
 
 
-Thank you for using the Height Calculator by Lollipop Developers team from discord.com, for license, please read LICENSE.TXT.
+Thank you for using the Height Calculator by Lollipop Developers team from discord.com, for license, please read LICENSE.md.
